@@ -27,12 +27,14 @@
 			price: 2.95,
 			description: '...',
 			canPurchase: true,
+			reviews: [],
 		},
 		{
 			name: 'Pentagonal Gem',
 			price: 5.95,
 			description: '...',
 			canPurchase: false,
+			reviews: [],
 		}
 	];
 })();
